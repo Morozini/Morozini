@@ -1,114 +1,91 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · morozini</sub></p>
-<h1>Gabriel Morozini</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<a href="https://github.com/morozini">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Dev+Frontend+%26+Full-Stack;Python+%7C+TypeScript+%7C+CSS;Construindo+software+%C3%BAtil+em+p%C3%BAblico" alt="Texto animado" />
+</a>
 
-<p><a href="https://github.com/morozini">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/135072556?u=92074f0fe4cb45aa5e466b13917d79ad011d2ca4&amp;v=4" width="180" alt="Gabriel Morozini GitHub avatar" />
-</td>
-</tr>
-</table>
+<br />
+
+<a href="https://github.com/morozini"><img src="https://img.shields.io/badge/GitHub-morozini-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/gabriel-morozini-de-andrade-4017a826a/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<br />
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · TypeScript · CSS</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>11 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>25 contributions · 11 active days</p></td>
-</tr>
-</table>
+## 👨‍💻 Sobre mim
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+```python
+class Gabriel:
+    role = "Frontend / Full-Stack Developer"
+    stack = ["Python", "TypeScript", "CSS"]
+    focus = "Construir software útil e resolver problemas reais"
+```
 
-<h2>Proof at a glance</h2>
+<br />
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>11</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>25</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+## 🧰 Tecnologias
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=morozini&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135072556%3Fu%3D92074f0fe4cb45aa5e466b13917d79ad011d2ca4%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=morozini&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135072556%3Fu%3D92074f0fe4cb45aa5e466b13917d79ad011d2ca4%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Gabriel Morozini GitHub proof metrics" />
-</picture>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,git,github,vscode&perline=8" alt="Tecnologias" />
 </p>
 
-<h2>Selected work</h2>
+<br />
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=morozini&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135072556%3Fu%3D92074f0fe4cb45aa5e466b13917d79ad011d2ca4%26v%3D4&repos=morozini%2FMorozini%2Cmorozini%2FsuporteDesk%2Cmorozini%2Fapi_nfs%2Cmorozini%2FContas_medicas&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=morozini&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135072556%3Fu%3D92074f0fe4cb45aa5e466b13917d79ad011d2ca4%26v%3D4&repos=morozini%2FMorozini%2Cmorozini%2FsuporteDesk%2Cmorozini%2Fapi_nfs%2Cmorozini%2FContas_medicas&v=recruiter-projects-1&mode=dark" width="100%" alt="Gabriel Morozini selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Morozini/Morozini">Morozini</a></h3>
-<p>A selected public project.</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Morozini/Morozini">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+## 📊 Estatísticas
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Morozini/suporteDesk">suporteDesk</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Morozini/api_nfs">api_nfs</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Morozini/Contas_medicas">Contas_medicas</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=morozini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morozini&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens" />
+</div>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=morozini&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135072556%3Fu%3D92074f0fe4cb45aa5e466b13917d79ad011d2ca4%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=morozini&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135072556%3Fu%3D92074f0fe4cb45aa5e466b13917d79ad011d2ca4%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Gabriel Morozini technology stack" />
-</picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morozini&theme=tokyonight&hide_border=true" alt="Sequência" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>Python</strong><br /><sub>71% of public code</sub></td>
-<td width="25%" align="center"><strong>TypeScript</strong><br /><sub>24% of public code</sub></td>
-<td width="25%" align="center"><strong>CSS</strong><br /><sub>5% of public code</sub></td>
-<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>0% of public code</sub></td>
-</tr>
-</table>
+<br />
 
-<h2>Consistency signal</h2>
+## 📈 Atividade recente
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=morozini&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135072556%3Fu%3D92074f0fe4cb45aa5e466b13917d79ad011d2ca4%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=morozini&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135072556%3Fu%3D92074f0fe4cb45aa5e466b13917d79ad011d2ca4%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Gabriel Morozini contribution activity" />
-</picture>
+  <img src="https://ghchart.rshah.org/58a6ff/morozini" width="100%" alt="Calendário de contribuições" />
 </p>
 
-<hr />
+<br />
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/morozini">GitHub</a></td>
-</tr>
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎧 <a href="https://github.com/Morozini/suporteDesk">suporteDesk</a></h3>
+      <p>Sistema de help desk para abertura e acompanhamento de chamados.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧾 <a href="https://github.com/Morozini/api_nfs">api_nfs</a></h3>
+      <p>API para integração e consulta de notas fiscais de serviço.</p>
+      <img src="https://img.shields.io/badge/API-1f6feb?style=flat-square" alt="API" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏥 <a href="https://github.com/Morozini/Contas_medicas">Contas_medicas</a></h3>
+      <p>Automação de análise de contas médicas.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+  </tr>
 </table>
 
-<p align="center"><sub>Gabriel Morozini · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+> ✏️ Ajuste as descrições para refletir o que cada projeto realmente faz.
+
+<br />
+
+## 🎯 Em foco
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-1f6feb?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Full--Stack-2ea043?style=for-the-badge" alt="Full-Stack" />
+  <img src="https://img.shields.io/badge/Open%20Source-8957e5?style=for-the-badge" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Aprendendo-sempre-f78166?style=for-the-badge" alt="Aprendendo sempre" />
+</p>
+
+<br />
